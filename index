@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Clothes</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css"  href="style.css">
+	</head>
+
+	<body>
+		<div class="container">
+			<!--<div class="wholebg">
+				<img src="IMG/whole%20website%20bg.png">
+			
+			</div>-->
+			<div class="header">
+				<div class="nav">
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Select</a></li>
+						<li><a href="#">Collections</a></li>
+						<li><a href="#">About Us</a></li>
+					</ul>
+				</div>
+				<div class="logo">
+					<h1>Clothe<span>s</span></h1>
+				<div class="small">
+					<p>We bring your favorite Brands to you.</p></div>
+				</div>
+			    <div>
+					<form class="form">
+						<input type="search" placeholder="Type Your Favoraite Brand...">
+						<input type="submit" value="Search"
+							  
+					</form>
+				
+				</div>
+			<div class="content">
+				<div><h3>Winter Collection</h3></div>
+				<div><p>Did you miss this winter collection ?
+					Come on Hurry up grab your best
+					outfit from here now.
+
+					We have a lot for you from Shirts
+					to Jackets to Pants to your Shoes.</p>
+				<div class="show">
+					<img src="IMG/models.png">
+				</div>
+				
+			</div>
+		<div class="box3">		
+			<div class="whyus">
+				<div><ul>Why Us ?</ul>
+						<li>We love nothing more than working 
+                            on Making a client Happy.</li>
+					    <li>As a company we have been trading 
+                            since 2004</li>
+					    <li>We listen, we discuss, we advise. Sounds
+                            obvious but we listen to your ideas.</li>
+				     
+					</div>
+				<!--<div class="bg">
+					<img src="IMG/blue%20bg.png">
+				</div>
+			<div class="bg">
+				<img src="IMG/blue%20bg.png">
+				
+				</div>	-->
+		
+			</div>
+		<div class="footer">
+			            <li><a href="#">Contact Us</a></li>
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">Site Map</a></li>
+						<li><a href="#">About Us</a></li>
+			</div>	
+		</div>	
+			</div>
+		</div>
+	</body>
+
+
+</html>
